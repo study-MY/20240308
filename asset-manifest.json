@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/240215_ncs_dashboard-hori/static/css/main.1c39f507.css",
-    "main.js": "/240215_ncs_dashboard-hori/static/js/main.a6c6e1e3.js",
-    "static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.avif": "/240215_ncs_dashboard-hori/static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.1e1e9d88925d19acdade.avif",
-    "index.html": "/240215_ncs_dashboard-hori/index.html",
-    "main.1c39f507.css.map": "/240215_ncs_dashboard-hori/static/css/main.1c39f507.css.map",
-    "main.a6c6e1e3.js.map": "/240215_ncs_dashboard-hori/static/js/main.a6c6e1e3.js.map"
+    "main.css": "/20240308/static/css/main.1c39f507.css",
+    "main.js": "/20240308/static/js/main.731b101a.js",
+    "static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.avif": "/20240308/static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.1e1e9d88925d19acdade.avif",
+    "index.html": "/20240308/index.html",
+    "main.1c39f507.css.map": "/20240308/static/css/main.1c39f507.css.map",
+    "main.731b101a.js.map": "/20240308/static/js/main.731b101a.js.map"
   },
   "entrypoints": [
     "static/css/main.1c39f507.css",
-    "static/js/main.a6c6e1e3.js"
+    "static/js/main.731b101a.js"
   ]
 }
